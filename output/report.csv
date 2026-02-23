@@ -1,0 +1,5 @@
+studentId,name,attendancePercent,avgMarks,status
+1,Sameera,90.0,82.5,PASS
+2,Sumehra,75.0,62.5,PASS
+3,Varshini,40.0,32.5,FAIL
+4,Hima,85.0,92.5,PASS
